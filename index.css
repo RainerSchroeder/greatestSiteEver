@@ -1,0 +1,40 @@
+body{
+    background-color: #323942;
+}
+
+.explaining {
+  border: 2px solid black;
+  outline: #ddd5d5d2 solid 3px;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+  color: silver;
+  }
+  
+
+
+.code {
+  border: 2px solid black;
+  outline: #ddd5d5d2 solid 3px;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+  font-style: italic;
+  color: silver;
+  }
+
+
+  .output {
+    border: 2px solid black;
+    outline: #ddd5d5d2 solid 3px;
+    margin: auto;  
+    padding: 20px;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+    color: silver;
+  }
